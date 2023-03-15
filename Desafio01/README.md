@@ -1,4 +1,4 @@
-<h1 align="center"> Horror Game of the year </h1>
+<h1 align="center"> Your Travel Expert </h1>
 
 <p align="center">
 Jornada do Zero à Primeira vaga é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -17,7 +17,8 @@ Jornada do Zero à Primeira vaga é um evento exclusivo e gratuito, promovido pe
 <br>
 
 
-![Horror Game Landing Page](https://user-images.githubusercontent.com/112482028/225406116-0a60145a-22dc-4987-9718-f5760e68ebe5.jpg)
+![Travel Expert LP](https://user-images.githubusercontent.com/112482028/225407131-7c9d4270-182d-4ce1-9c7f-339cfd14ccef.jpg)
+
 
 
 ## 🚀 Tecnologias
@@ -30,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Horror Game of the year é uma Landing Page de um jogo de terror.
+O Travel Expert é uma Landing Page sugerido como desafio pela Rocketseat.
 
 - [Visite o projeto online](https://sanchesvitor.github.io/Jornada-Rocketseat/Desafio01/)
 
