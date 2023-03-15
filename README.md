@@ -11,7 +11,7 @@ Tenho buscado me desafiar cada vez mais e desenvolver o meu aprendizado exploran
 
 |   #  |    Nome        | Code  | Deploy   |
 | :--- | :------------- | :------ | :------|
-| `A1` | `` |  [✍](https://github.com/SanchesVitor/Jornada-Rocketseat/tree/main/Aula01) |[💻](https://sanchesvitor.github.io/Jornada-Rocketseat/Aula01/) |
+| `A1` | `Horror Game of the year` |  [✍](https://github.com/SanchesVitor/Jornada-Rocketseat/tree/main/Aula01) |[💻](https://sanchesvitor.github.io/Jornada-Rocketseat/Aula01/) |
 | `00` | `` |  [✍]() |[💻]() |
 | `00` | `` | [✍]() |[💻]() |
 | `00` | `` | [✍]() |[💻]() |
