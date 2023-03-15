@@ -1,7 +1,7 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Horror Game of the year </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Jornada do Zero à Primeira vaga é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
@@ -16,24 +16,23 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 <br>
 
-<p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
-</p>
+
+![Horror Game Landing Page](https://user-images.githubusercontent.com/112482028/225406116-0a60145a-22dc-4987-9718-f5760e68ebe5.jpg)
+
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O Horror Game of the year é uma Landing Page de um jogo de terror.
 
-- [Visite o projeto online](https://sanchesvitor.github.io/Habits-Me/)
+- [Visite o projeto online](https://sanchesvitor.github.io/Jornada-Rocketseat/Desafio01/)
 
 ## :memo: Licença
 
