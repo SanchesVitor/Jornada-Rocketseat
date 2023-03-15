@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Horror Game of the year é uma Landing Page de um jogo de terror.
 
-- [Visite o projeto online](https://sanchesvitor.github.io/Jornada-Rocketseat/Desafio01/)
+- [Visite o projeto online](https://sanchesvitor.github.io/Jornada-Rocketseat/Aula01/)
 
 ## :memo: Licença
 
