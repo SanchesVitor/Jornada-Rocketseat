@@ -13,8 +13,8 @@ Tenho buscado me desafiar cada vez mais e desenvolver o meu aprendizado exploran
 | :--- | :------------- | :------ | :------|
 | `A1` | `Horror Game of the year` |  [✍](https://github.com/SanchesVitor/Jornada-Rocketseat/tree/main/Aula01) |[💻](https://sanchesvitor.github.io/Jornada-Rocketseat/Aula01/) |
 | `D1` | `Travel Expert` |  [✍](https://github.com/SanchesVitor/Jornada-Rocketseat/tree/main/Desafio01) |[💻](https://sanchesvitor.github.io/Jornada-Rocketseat/Desafio01/) |
-| `00` | `` | [✍]() |[💻]() |
-| `00` | `` | [✍]() |[💻]() |
+| `A2` | `Healthy Recipes LP` | [✍](https://github.com/SanchesVitor/Jornada-Rocketseat/tree/main/Aula02) |[💻](https://sanchesvitor.github.io/Jornada-Rocketseat/Aula02/) |
+
 
 
 
