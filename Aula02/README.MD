@@ -1,4 +1,4 @@
-<h1 align="center"> Horror Game of the year </h1>
+<h1 align="center"> Healthy Recipes LP </h1>
 
 <p align="center">
 Jornada do Zero à Primeira vaga é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -17,7 +17,8 @@ Jornada do Zero à Primeira vaga é um evento exclusivo e gratuito, promovido pe
 <br>
 
 
-![Horror Game Landing Page](https://user-images.githubusercontent.com/112482028/225406116-0a60145a-22dc-4987-9718-f5760e68ebe5.jpg)
+![Healthy Recipes LP](https://user-images.githubusercontent.com/112482028/225763844-4bda568c-7f79-42a1-998e-8243f30d2a3d.jpg)
+
 
 
 ## 🚀 Tecnologias
@@ -30,9 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Horror Game of the year é uma Landing Page de um jogo de terror.
+O Healthy Recipes LP é uma Landing Page sugerido como desafio pela Rocketseat.
 
-- [Visite o projeto online](https://sanchesvitor.github.io/Jornada-Rocketseat/Aula01/)
+- [Visite o projeto online](https://sanchesvitor.github.io/Jornada-Rocketseat/Aula02/)
 
 ## :memo: Licença
 
